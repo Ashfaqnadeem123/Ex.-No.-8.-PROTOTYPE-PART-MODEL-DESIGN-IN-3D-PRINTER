@@ -1,36 +1,3 @@
-Skip to content
-ajay-karthick-r
-Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
-Repository navigation
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Files
-Go to file
-t
-README.md
-Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
-/README.md
-ajay-karthick-r
-ajay-karthick-r
-Update README.md
-e9fee84
- · 
-last week
-Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
-/README.md
-
-Preview
-
-Code
-
-Blame
-58 lines (37 loc) · 3.07 KB
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 25-02-26
