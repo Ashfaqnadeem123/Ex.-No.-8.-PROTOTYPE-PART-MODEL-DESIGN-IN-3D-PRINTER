@@ -1,6 +1,39 @@
+Skip to content
+ajay-karthick-r
+Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+Repository navigation
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+Go to file
+t
+README.md
+Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+/README.md
+ajay-karthick-r
+ajay-karthick-r
+Update README.md
+e9fee84
+ · 
+last week
+Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+/README.md
+
+Preview
+
+Code
+
+Blame
+58 lines (37 loc) · 3.07 KB
+# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 25-02-26
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,9 +79,14 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1036" height="588" alt="Screenshot 2026-03-16 185216" src="https://github.com/user-attachments/assets/e81337ea-5e9d-4621-9733-6b5e882559c3" />
 
-### Name:
-### Register Number:
+<img width="1033" height="451" alt="image" src="https://github.com/user-attachments/assets/8ce6acd0-97c1-44f9-987a-cad7db0a9936" />
+
+
+### Name: MOHAMMED ASHFAQ NADEEM A
+### Register Number:212224230166
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
+ 
